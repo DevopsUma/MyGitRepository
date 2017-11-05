@@ -4,12 +4,7 @@
 <h3>Hello World!</h3>
 <h3>Hello World!</h3>
 <h3>Hello World11/4/2017!</h3>
-<<<<<<< HEAD
-<h4>Hello DevopsWorld December Release!</h4>
-<h4>Hello DevopsWorld December Release2!</h4>
-=======
-<h4>Hello DevopsWorld!</h4>
-<h4>Hello Main merge!</h4>
->>>>>>> remotes/origin/master
+<h3>Git_Dec_release</h3>
+
 </body>
 </html>
